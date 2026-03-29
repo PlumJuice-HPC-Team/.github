@@ -23,6 +23,6 @@
 
 <p align="center">
   <a href="https://www.kubii.com/it/">
-    <img height=90 src="https://github.com/PlumJuice-HPC-Team/.github/blob/main/assets/sponsors/kubii/kubii-logos/kubii-colored-black-white-rasp-white-bg.svg">
+    <img height=80 src="https://github.com/PlumJuice-HPC-Team/.github/blob/main/assets/sponsors/kubii/kubii-logos/kubii-colored-black-white-rasp-white-bg.svg">
   </a>
 </p>
